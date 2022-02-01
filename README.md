@@ -1,6 +1,6 @@
 
 
-## Documentation API
+## Documentation API Swagger
 
 [API Docs](https://api-challengedev.herokuapp.com/api/documentation)
 
